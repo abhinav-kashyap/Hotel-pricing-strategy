@@ -6,3 +6,12 @@ H2 – The Hotel prices are mainly dependent on its location such as in metro ci
 H3 – The Hotel prices are mainly dependent on the kind of facilities it provides to the customers.
 
 To prove each of the above Hypothesis, I worked on different models while using linear regression to obtain the relationship with Hotel room rent.
+
+#Conclusion
+The following factors were responsible for an increase in Hotel room rents in decreasing order of priority:
+1.	Star Rating of the Hotel (Generally 4 star and 5 star hotels are expensive)
+2.	It is a special day such as New Year’s Eve
+3.	The Hotel has a swimming pool
+4.	The Hotel is located at a tourist destination
+5.	The Hotel is near to Airport
+6.	The Hotel is situated in a Metro city
